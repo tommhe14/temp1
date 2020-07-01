@@ -30,4 +30,4 @@ if __name__ == "__main__":
 			print(f'Failed to load extension {extension}.')
 			traceback.print_exc()
 
-bot.run('NTk0NjYzNDAwMTQzODQ3NDI0.Xl_a8A.L1A3ztvgt0ILOq_GAMbvLSifR8c')
+bot.run('')
